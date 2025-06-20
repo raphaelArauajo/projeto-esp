@@ -1,2 +1,2 @@
-
-  pythonVersion: 3.11.8
+build:
+  pythonVersion: 3.9.7
